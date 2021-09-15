@@ -1,4 +1,4 @@
-### Namaste, I'm Vivek 👋
+### Namaste, I'm Vivek 👋 ![](https://img.shields.io/static/v1?label=vivek&message=chauhan&color=red)
 
 ## Skill Set
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -9,7 +9,7 @@
 
 
 ## Experience
-12 + Years of experience in web application and enterprise application development. 
+12+ Years of experience in web application and enterprise application development. 
 <!--
 **chauhanvivek27/chauhanvivek27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
